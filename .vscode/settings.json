@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/25341a74-1ac6-47ac-aa7d-2368058ef732/resourceGroups/sait78-rg/providers/Microsoft.Web/sites/websitesamiad2788",
+    "appService.deploySubpath": "."
+}
